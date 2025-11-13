@@ -47,4 +47,33 @@ I am a dedicated and motivated undergraduate student with a sharp focus on <b> P
   <img src="https://github-readme-stats.vercel.app/api?username=minurakairoshan&show_icons=true&count_private=true&theme=algolia" alt="Minuraka's GitHub Stats" height="237"/> 
 
 
+&nbsp;
+
+### <b> 🧑‍💻Languages </b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minurakairoshan&langs_count=6&layout=compact&theme=algolia" height="237"/>
+  </p>
+
+&nbsp;
+
+## 🌐 Connect with me
+
+<p align = "left">
+  <a href="https://www.linkedin.com/in/minurakairoshan/" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  &nbsp;
+ 
+  <a href="discordapp.com/users/1427898828555681794" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" alt="discord" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/minuraka_iroshan/" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/minuraka.iroshan" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" alt="Facebook" />
+  </a>
+</p>
+
   
