@@ -41,12 +41,21 @@ I am a dedicated and motivated undergraduate student with a sharp focus on <b> P
 
 ---
 
- ### <b> 📊 GitHub Stats </b>
+### <b> 📊 GitHub Stats </b>
   <br />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=minurakairoshan&show_icons=true&count_private=true&theme=algolia" alt="Minuraka's GitHub Stats" height="237"/> 
 
+
+  
+&nbsp;
+
+### <b> 🧑‍💻Languages </b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minurakairoshan&langs_count=6&layout=compact&theme=algolia" height="237"/>
+  </p>
 
 &nbsp;
+
 
 ## 🌐 Connect with me
 
