@@ -36,3 +36,15 @@ I am a dedicated and motivated undergraduate student with a sharp focus on <b> P
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width = 44px hight = 44px/>
    
 </p>
+
+&nbsp;
+
+---
+
+ ### <b> 📊 GitHub Stats </b>
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=minurakairoshan&show_icons=true&count_private=true&theme=algolia" alt="Minuraka's GitHub Stats" height="237"/> 
+
+
+  
