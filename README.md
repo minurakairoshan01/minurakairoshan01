@@ -52,7 +52,7 @@ height="237"/>
 &nbsp;
 
 ### <b> 🧑‍💻Languages </b>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minurakairoshan&langs_count=6&layout=compact&theme=algolia" height="237"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minurakairoshan01&langs_count=6&layout=compact&theme=algolia" height="237"/>
   </p>
 
 &nbsp;
