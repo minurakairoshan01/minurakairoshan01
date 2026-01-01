@@ -1,8 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Minuraka Iroshan
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙼𝚒𝚗𝚞𝚛𝚊𝚔𝚊 𝙸𝚛𝚘𝚜𝚑𝚊𝚗
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=A3F9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 &nbsp;
-
+</div>
 👨‍💻 About me
+
 ---
 
 I am a dedicated and motivated undergraduate student with a sharp focus on <b> Programming, Problem-solving, Networking, and Emerging technologies </b>. I am committed to continuous learning and applying my knowledge to construct and support projects that enhance my technical skills.
